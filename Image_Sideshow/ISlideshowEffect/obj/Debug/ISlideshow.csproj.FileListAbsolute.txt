@@ -1,0 +1,6 @@
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\bin\Debug\ISlideshowEffect.dll
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\bin\Debug\ISlideshowEffect.pdb
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\obj\Debug\ISlideshow.csprojAssemblyReference.cache
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\obj\Debug\ISlideshow.csproj.CoreCompileInputs.cache
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\obj\Debug\ISlideshowEffect.dll
+C:\Users\patry\OneDrive\Desktop\WPF_Homework\ISlideshowEffect\obj\Debug\ISlideshowEffect.pdb

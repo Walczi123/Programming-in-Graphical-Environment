@@ -1,0 +1,5 @@
+D:\Visual Studio projekty\Wpf Lab2 Wed\ISlideshowEffect\bin\Debug\ISlideshowEffect.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\ISlideshowEffect\bin\Debug\ISlideshowEffect.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\ISlideshowEffect\obj\Debug\ISlideshowEffect.csproj.CoreCompileInputs.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\ISlideshowEffect\obj\Debug\ISlideshowEffect.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\ISlideshowEffect\obj\Debug\ISlideshowEffect.pdb

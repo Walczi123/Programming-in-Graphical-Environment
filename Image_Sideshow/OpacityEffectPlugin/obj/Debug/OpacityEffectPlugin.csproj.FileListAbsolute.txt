@@ -1,0 +1,9 @@
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\bin\Debug\OpacityEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\bin\Debug\OpacityEffectPlugin.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\bin\Debug\ISlideshowEffect.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\bin\Debug\ISlideshowEffect.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\obj\Debug\OpacityEffectPlugin.csprojAssemblyReference.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\obj\Debug\OpacityEffectPlugin.csproj.CoreCompileInputs.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\obj\Debug\OpacityEffectPlugin.csproj.CopyComplete
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\obj\Debug\OpacityEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\OpacityEffectPlugin\obj\Debug\OpacityEffectPlugin.pdb

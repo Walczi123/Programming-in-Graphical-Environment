@@ -1,0 +1,9 @@
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\bin\Debug\VerticalEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\bin\Debug\VerticalEffectPlugin.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\bin\Debug\ISlideshowEffect.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\bin\Debug\ISlideshowEffect.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\obj\Debug\VerticalEffectPlugin.csproj.CoreCompileInputs.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\obj\Debug\VerticalEffectPlugin.csproj.CopyComplete
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\obj\Debug\VerticalEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\obj\Debug\VerticalEffectPlugin.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\VerticalEffectPlugin\obj\Debug\VerticalEffectPlugin.csprojAssemblyReference.cache

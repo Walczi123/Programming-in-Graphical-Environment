@@ -1,0 +1,9 @@
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\bin\Debug\HorizontalEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\bin\Debug\HorizontalEffectPlugin.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\bin\Debug\ISlideshowEffect.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\bin\Debug\ISlideshowEffect.pdb
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\obj\Debug\HorizontalEffectPlugin.csprojAssemblyReference.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\obj\Debug\HorizontalEffectPlugin.csproj.CoreCompileInputs.cache
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\obj\Debug\HorizontalEffectPlugin.csproj.CopyComplete
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\obj\Debug\HorizontalEffectPlugin.dll
+D:\Visual Studio projekty\Wpf Lab2 Wed\HorizontalEffectPlugin\obj\Debug\HorizontalEffectPlugin.pdb

@@ -1,0 +1,2 @@
+﻿  IcyTowerWinAPI.cpp
+D:\Synchronizacja\Projekty\C++\IcyTowerWinAPI\IcyTowerWinAPI\IcyTowerWinAPI.cpp(224,1): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego pliku nagłówkowego. Czy zapomniano dodać „#include "stdafx.h"” do źródła?
